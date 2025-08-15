@@ -40,6 +40,7 @@ The robot also includes *turn signal LEDs* to indicate direction and can be cont
 
 ## 📷 Demo Video
 
+https://www.linkedin.com/posts/donald-oke-343369331_arduino-robotics-iot-activity-7361918335904641024-RIOG?utm_source=share&utm_medium=member_android&rcm=ACoAAFOGWKMBPVfuLxRoG5OZsoEwHf3kVfihuD4
 
 ✍ *Author*: MELRIQU  
 📅 *Date*: August 15 2025
